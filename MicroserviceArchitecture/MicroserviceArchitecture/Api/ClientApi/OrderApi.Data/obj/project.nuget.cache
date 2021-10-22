@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oIZ5HdQC4TZlAdqmLGcmRT1Bht/DGG0QymEhCNZcP5cbDglTOOKsgD7FLWx/jpJYCD6itgSoYpuF0N33uUQOdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agoxhaj2\\source\\repos\\ClientApi\\OrderApi.Data\\OrderApi.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agoxhaj2\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\agoxhaj2\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

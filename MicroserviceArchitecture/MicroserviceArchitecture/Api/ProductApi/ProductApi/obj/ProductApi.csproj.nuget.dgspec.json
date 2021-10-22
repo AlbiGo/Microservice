@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi\\ProductApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Data\\ProductApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Data\\ProductApi.Data.csproj",
+        "projectName": "ProductApi.Data",
+        "projectPath": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Data\\ProductApi.Data.csproj",
+        "packagesPath": "C:\\Users\\agoxhaj2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\agoxhaj2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Service\\ProductApi.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Service\\ProductApi.Service.csproj",
+        "projectName": "ProductApi.Service",
+        "projectPath": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Service\\ProductApi.Service.csproj",
+        "packagesPath": "C:\\Users\\agoxhaj2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\agoxhaj2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Data\\ProductApi.Data.csproj": {
+                "projectPath": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Data\\ProductApi.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi\\ProductApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi\\ProductApi.csproj",
+        "projectName": "ProductApi",
+        "projectPath": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi\\ProductApi.csproj",
+        "packagesPath": "C:\\Users\\agoxhaj2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\agoxhaj2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Data\\ProductApi.Data.csproj": {
+                "projectPath": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Data\\ProductApi.Data.csproj"
+              },
+              "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Service\\ProductApi.Service.csproj": {
+                "projectPath": "C:\\Users\\agoxhaj2\\source\\repos\\MicroserviceArchitecture\\Api\\ProductApi\\ProductApi.Service\\ProductApi.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

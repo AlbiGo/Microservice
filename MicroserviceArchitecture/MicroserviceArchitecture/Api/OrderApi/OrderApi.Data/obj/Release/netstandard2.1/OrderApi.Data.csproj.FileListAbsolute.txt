@@ -1,0 +1,8 @@
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Data\bin\Release\netstandard2.1\OrderApi.Data.deps.json
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Data\bin\Release\netstandard2.1\OrderApi.Data.dll
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Data\bin\Release\netstandard2.1\OrderApi.Data.pdb
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Data\obj\Release\netstandard2.1\OrderApi.Data.AssemblyInfoInputs.cache
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Data\obj\Release\netstandard2.1\OrderApi.Data.AssemblyInfo.cs
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Data\obj\Release\netstandard2.1\OrderApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Data\obj\Release\netstandard2.1\OrderApi.Data.dll
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Data\obj\Release\netstandard2.1\OrderApi.Data.pdb

@@ -1,0 +1,12 @@
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\bin\Release\netstandard2.1\ClientApi.Service.deps.json
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\bin\Release\netstandard2.1\ClientApi.Service.dll
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\bin\Release\netstandard2.1\ClientApi.Service.pdb
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\bin\Release\netstandard2.1\ClientApi.Data.dll
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\bin\Release\netstandard2.1\ClientApi.Data.pdb
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\obj\Release\netstandard2.1\ClientApi.Service.csprojAssemblyReference.cache
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\obj\Release\netstandard2.1\ClientApi.Service.AssemblyInfoInputs.cache
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\obj\Release\netstandard2.1\ClientApi.Service.AssemblyInfo.cs
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\obj\Release\netstandard2.1\ClientApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\obj\Release\netstandard2.1\ClientApi.Service.csproj.CopyComplete
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\obj\Release\netstandard2.1\ClientApi.Service.dll
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\ClientApi\ClientApi.Service\obj\Release\netstandard2.1\ClientApi.Service.pdb

@@ -1,0 +1,9 @@
+C:\Users\agoxhaj2\source\repos\ClientApi\ClientApi.Service\bin\Debug\netstandard2.0\ClientApi.Service.deps.json
+C:\Users\agoxhaj2\source\repos\ClientApi\ClientApi.Service\bin\Debug\netstandard2.0\ClientApi.Service.dll
+C:\Users\agoxhaj2\source\repos\ClientApi\ClientApi.Service\bin\Debug\netstandard2.0\ClientApi.Service.pdb
+C:\Users\agoxhaj2\source\repos\ClientApi\ClientApi.Service\obj\Debug\netstandard2.0\ClientApi.Service.AssemblyInfoInputs.cache
+C:\Users\agoxhaj2\source\repos\ClientApi\ClientApi.Service\obj\Debug\netstandard2.0\ClientApi.Service.AssemblyInfo.cs
+C:\Users\agoxhaj2\source\repos\ClientApi\ClientApi.Service\obj\Debug\netstandard2.0\ClientApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\agoxhaj2\source\repos\ClientApi\ClientApi.Service\obj\Debug\netstandard2.0\ClientApi.Service.dll
+C:\Users\agoxhaj2\source\repos\ClientApi\ClientApi.Service\obj\Debug\netstandard2.0\ClientApi.Service.pdb
+C:\Users\agoxhaj2\source\repos\ClientApi\ClientApi.Service\obj\Debug\netstandard2.0\ClientApi.Service.csprojAssemblyReference.cache

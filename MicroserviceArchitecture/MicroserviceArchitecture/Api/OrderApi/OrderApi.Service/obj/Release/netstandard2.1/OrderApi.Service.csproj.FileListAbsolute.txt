@@ -1,0 +1,12 @@
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\bin\Release\netstandard2.1\OrderApi.Service.deps.json
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\bin\Release\netstandard2.1\OrderApi.Service.dll
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\bin\Release\netstandard2.1\OrderApi.Service.pdb
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\bin\Release\netstandard2.1\OrderApi.Data.dll
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\bin\Release\netstandard2.1\OrderApi.Data.pdb
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\obj\Release\netstandard2.1\OrderApi.Service.csprojAssemblyReference.cache
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\obj\Release\netstandard2.1\OrderApi.Service.AssemblyInfoInputs.cache
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\obj\Release\netstandard2.1\OrderApi.Service.AssemblyInfo.cs
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\obj\Release\netstandard2.1\OrderApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\obj\Release\netstandard2.1\OrderApi.Service.csproj.CopyComplete
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\obj\Release\netstandard2.1\OrderApi.Service.dll
+C:\Users\agoxhaj2\source\repos\MicroserviceArchitecture\Api\OrderApi\OrderApi.Service\obj\Release\netstandard2.1\OrderApi.Service.pdb
